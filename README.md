@@ -1,6 +1,6 @@
-<h1>Hi, I'm Satyam! <br/><a href="https://github.com/satyam-u-d">Electrical and Computer Engineer</a>, <a href="https://www.linkedin.com/in/satyam-dudhagara-9707/">Robotics Professional</a></h1>
+<h1>Hi, I'm Satyam! <br/><a href="https://github.com/satyam-u-d">Electrical and Computer Engineer (M. Sc.), Mechatronics Engineer (B. Tech.)</a>, <a href="https://www.linkedin.com/in/satyam-dudhagara-9707/">Robotics Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
